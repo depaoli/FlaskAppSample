@@ -1,0 +1,9 @@
+#
+# App dependencies/libraries for PyPI
+#
+
+# Python libraries for OAuth
+Requests-oauthlib>=0.3.3
+
+# Boto is used for AWS Dynamo and SQS
+Boto>=2.36.x
