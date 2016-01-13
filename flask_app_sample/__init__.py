@@ -1,5 +1,5 @@
 #
-# Just a demo app, mostly used by https://github.com/depaoli/DPMFlaskWebService.
+# Just a demo app, mostly used by https://github.com/depaoli/FlaskAppServer
 #
 from flask import Flask
 app = Flask(__name__)

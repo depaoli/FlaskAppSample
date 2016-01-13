@@ -11,7 +11,7 @@ for directory, sub_directories, files in os.walk('etc'):
 	filenames = []
 	for filename in files:
 		filenames.append(os.path.join(directory, filename))
-	data_files.append((os.path.join('/DPMFlaskWebService', directory), filenames))
+	data_files.append((os.path.join('/FlaskAppServer', directory), filenames))
 
 args = dict(
     # Application details
