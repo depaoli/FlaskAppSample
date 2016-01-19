@@ -1,6 +1,16 @@
 #
 # App dependencies/libraries for PyPI
 #
+# For Google App Engine: Run 'pip install -r requirements.txt -t lib/' to install
+# these dependencies in `lib/` subdirectory (App Engine can only import libraries
+# from inside your project directory).
+#
+
+# Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions
+Flask>=0.10
+
+# Flask modules for Web Forms
+Flask-WTF>=0.9.3
 
 # Python libraries for OAuth
 Requests-oauthlib>=0.3.3

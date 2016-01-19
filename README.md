@@ -1,2 +1,2 @@
 # FlaskAppSample
-Just a sample to be used by https://github.com/depaoli/FlaskAppServer
+Just a sample of a WebApp to be used either with [Docker](https://hub.docker.com/r/depaoli/flaskappsample/) or [Google App Engine](https://github.com/GoogleCloudPlatform/appengine-flask-skeleton).
